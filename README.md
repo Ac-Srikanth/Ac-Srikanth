@@ -1,6 +1,13 @@
-### Hey there 👋  I'm  Srikanth A C
+## Hey there 👋  I'm  Srikanth A C
 
-Thanks for stopping by. I like to usually work in the frontend space and always keen to learn new technologies and innovations.I like to take on complex problems as it's a perfect oppurtunity to learn and grow. My other interests apart from tech includes **Cricket**🇮🇳 ,  **Football** ⚽ , **Formula 1** 🏁 and the final frontier: space 🚀
+<img src="https://media.giphy.com/media/M8oINSxl1f95ppMSOT/giphy.gif" />
+
+Thanks for stopping by. I like to usually work in the frontend space and always keen to learn new technologies and innovations.I like to take on complex problems as it's a perfect oppurtunity to learn and grow. My other interests apart from tech includes **Cricket**🇮🇳 ,  **Football** ⚽ , **Formula 1** 🏁 and the final frontier: space 🚀.
+<br />
+
+### You can find me here:
+<a href="mailto:acsrikanth24@gmail.com?subject=[GitHub]%20Contact&body=Hello,"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/srikanthac"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 Currently Working with / Learning 
 <br />
