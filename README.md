@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/M8oINSxl1f95ppMSOT/giphy.gif" />
 
-Thanks for stopping by. I like to usually work in the frontend space and always keen to learn new technologies and innovations.I like to take on complex problems as it's a perfect oppurtunity to learn and grow. My other interests apart from tech includes **Cricket**🇮🇳 ,  **Football** ⚽ , **Formula 1** 🏁 and the final frontier: space 🚀.
+Thanks for stopping by. I like to work in the frontend space and always keen to learn new technologies and innovations.Currently working as a developer in [Antstack](http://antstack.io/) headquartered in bangalore. I like to take on complex problems as it's a perfect oppurtunity to learn and grow. My other interests apart from tech includes **Cricket**🇮🇳 ,  **Football** ⚽ , **Formula 1** 🏁 and the final frontier: space 🚀.
 <br />
 
 ### You can find me here:
