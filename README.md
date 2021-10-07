@@ -24,7 +24,7 @@ Currently Working with / Learning
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ac-Srikanth&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ac-Srikanth&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Ac-Srikanth/Ac-Srikanth/blob/master/devcard.svg" width="400" alt="=Ac Srikanth's Dev Card"/></a>
 
 
 <!--
